@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9cc33c9cf967dd94fbbf8d76cb96b99d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Birthstone Bounce
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 25c70ca9529565c4389759d602d8b3c1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

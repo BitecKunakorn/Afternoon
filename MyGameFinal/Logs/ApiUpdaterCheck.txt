@@ -1,0 +1,345 @@
+[api-updater (non-obsolete-error-filter)] 8/29/2021 10:27:36 PM : Starting D:/อย่าลบ 2.36 GB/ชุดติดต้ง/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 313.8419ms
+moved types parse time: 188ms
+candidates parse time : 4ms
+C# parse time         : 728ms
+candidates check time : 98ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 12:26:04 PM : Starting D:/อย่าลบ 2.36 GB/ชุดติดต้ง/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 367.629ms
+moved types parse time: 174ms
+candidates parse time : 4ms
+C# parse time         : 667ms
+candidates check time : 99ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 9/3/2021 10:16:23 AM : Starting D:/อย่าลบ 2.36 GB/ชุดติดต้ง/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from D:\ปี3-64\เทอม 1\01418383-3 game programming\MyGameFinal\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <68bff7873e0e4aa69a14dfc30bebbe3e>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 299.9845ms
+moved types parse time: 186ms
+candidates parse time : 4ms
+C# parse time         : 808ms
+candidates check time : 102ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 9/3/2021 10:17:13 AM : Starting D:/อย่าลบ 2.36 GB/ชุดติดต้ง/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from D:\ปี3-64\เทอม 1\01418383-3 game programming\MyGameFinal\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <68bff7873e0e4aa69a14dfc30bebbe3e>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 195.0131ms
+moved types parse time: 163ms
+candidates parse time : 3ms
+C# parse time         : 704ms
+candidates check time : 91ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/3/2021 10:19:57 AM : Starting D:/อย่าลบ 2.36 GB/ชุดติดต้ง/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from D:\ปี3-64\เทอม 1\01418383-3 game programming\MyGameFinal\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <68bff7873e0e4aa69a14dfc30bebbe3e>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 188.0157ms
+moved types parse time: 169ms
+candidates parse time : 5ms
+C# parse time         : 664ms
+candidates check time : 90ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/3/2021 11:49:51 AM : Starting D:/อย่าลบ 2.36 GB/ชุดติดต้ง/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 223.9972ms
+moved types parse time: 172ms
+candidates parse time : 3ms
+C# parse time         : 697ms
+candidates check time : 115ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 9/3/2021 11:50:53 AM : Starting D:/อย่าลบ 2.36 GB/ชุดติดต้ง/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 124.0128ms
+moved types parse time: 107ms
+candidates parse time : 2ms
+C# parse time         : 389ms
+candidates check time : 58ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/3/2021 11:54:40 AM : Starting D:/อย่าลบ 2.36 GB/ชุดติดต้ง/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 222.014ms
+moved types parse time: 176ms
+candidates parse time : 3ms
+C# parse time         : 617ms
+candidates check time : 103ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 9/3/2021 11:56:40 AM : Starting D:/อย่าลบ 2.36 GB/ชุดติดต้ง/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 175.0142ms
+moved types parse time: 168ms
+candidates parse time : 4ms
+C# parse time         : 606ms
+candidates check time : 98ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/3/2021 12:01:12 PM : Starting D:/อย่าลบ 2.36 GB/ชุดติดต้ง/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 185.0119ms
+moved types parse time: 172ms
+candidates parse time : 5ms
+C# parse time         : 634ms
+candidates check time : 103ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/3/2021 12:01:41 PM : Starting D:/อย่าลบ 2.36 GB/ชุดติดต้ง/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 178.0445ms
+moved types parse time: 165ms
+candidates parse time : 3ms
+C# parse time         : 612ms
+candidates check time : 94ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/3/2021 12:08:39 PM : Starting D:/อย่าลบ 2.36 GB/ชุดติดต้ง/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 186.0157ms
+moved types parse time: 165ms
+candidates parse time : 3ms
+C# parse time         : 638ms
+candidates check time : 110ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/6/2021 2:55:48 PM : Starting D:/อย่าลบ 2.36 GB/ชุดติดต้ง/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 13369.393ms
+moved types parse time: 176ms
+candidates parse time : 3ms
+C# parse time         : 733ms
+candidates check time : 94ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/19/2021 2:36:09 PM : Starting D:/อย่าลบ 2.36 GB/ชุดติดต้ง/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1430.9303ms
+moved types parse time: 198ms
+candidates parse time : 4ms
+C# parse time         : 669ms
+candidates check time : 86ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 10/18/2021 1:20:01 PM : Starting D:/อย่าลบ 2.36 GB/ชุดติดต้ง/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1661.5158ms
+moved types parse time: 174ms
+candidates parse time : 3ms
+C# parse time         : 618ms
+candidates check time : 82ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 10/21/2021 1:27:25 AM : Starting D:/อย่าลบ 2.36 GB/ชุดติดต้ง/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 167.0146ms
+moved types parse time: 133ms
+candidates parse time : 11ms
+C# parse time         : 490ms
+candidates check time : 594ms
+console write time    : 6ms
+
+[api-updater (non-obsolete-error-filter)] 10/21/2021 1:58:48 AM : Starting D:/อย่าลบ 2.36 GB/ชุดติดต้ง/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from D:\ปี3-64\เทอม 1\01418383-3 game programming\MyGameFinal\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <68bff7873e0e4aa69a14dfc30bebbe3e>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 288.018ms
+moved types parse time: 342ms
+candidates parse time : 22ms
+C# parse time         : 766ms
+candidates check time : 705ms
+console write time    : 9ms
+
+[api-updater (non-obsolete-error-filter)] 10/21/2021 2:04:04 AM : Starting D:/อย่าลบ 2.36 GB/ชุดติดต้ง/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from D:\ปี3-64\เทอม 1\01418383-3 game programming\MyGameFinal\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <68bff7873e0e4aa69a14dfc30bebbe3e>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 261.0188ms
+moved types parse time: 212ms
+candidates parse time : 48ms
+C# parse time         : 849ms
+candidates check time : 1117ms
+console write time    : 9ms
+
+[api-updater (non-obsolete-error-filter)] 10/21/2021 2:05:33 AM : Starting D:/อย่าลบ 2.36 GB/ชุดติดต้ง/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 265.2506ms
+moved types parse time: 190ms
+candidates parse time : 41ms
+C# parse time         : 712ms
+candidates check time : 1237ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 10/21/2021 2:06:27 AM : Starting D:/อย่าลบ 2.36 GB/ชุดติดต้ง/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 196.5254ms
+moved types parse time: 253ms
+candidates parse time : 6ms
+C# parse time         : 761ms
+candidates check time : 119ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 10/21/2021 2:07:25 AM : Starting D:/อย่าลบ 2.36 GB/ชุดติดต้ง/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 222.0165ms
+moved types parse time: 186ms
+candidates parse time : 5ms
+C# parse time         : 620ms
+candidates check time : 131ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 10/21/2021 2:08:08 AM : Starting D:/อย่าลบ 2.36 GB/ชุดติดต้ง/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 226.0253ms
+moved types parse time: 204ms
+candidates parse time : 15ms
+C# parse time         : 704ms
+candidates check time : 1197ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 10/21/2021 2:09:00 AM : Starting D:/อย่าลบ 2.36 GB/ชุดติดต้ง/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 297.6582ms
+moved types parse time: 238ms
+candidates parse time : 41ms
+C# parse time         : 687ms
+candidates check time : 675ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 10/21/2021 2:10:50 AM : Starting D:/อย่าลบ 2.36 GB/ชุดติดต้ง/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 223.013ms
+moved types parse time: 200ms
+candidates parse time : 41ms
+C# parse time         : 711ms
+candidates check time : 1005ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 10/21/2021 2:12:04 AM : Starting D:/อย่าลบ 2.36 GB/ชุดติดต้ง/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 151.0062ms
+moved types parse time: 97ms
+candidates parse time : 2ms
+C# parse time         : 397ms
+candidates check time : 73ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/21/2021 2:12:28 AM : Starting D:/อย่าลบ 2.36 GB/ชุดติดต้ง/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 280.0192ms
+moved types parse time: 190ms
+candidates parse time : 36ms
+C# parse time         : 661ms
+candidates check time : 1179ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 10/21/2021 2:18:26 PM : Starting D:/อย่าลบ 2.36 GB/ชุดติดต้ง/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 359.8047ms
+moved types parse time: 184ms
+candidates parse time : 3ms
+C# parse time         : 621ms
+candidates check time : 96ms
+console write time    : 3ms
+
+[api-updater (non-obsolete-error-filter)] 10/23/2021 7:58:03 PM : Starting D:/อย่าลบ 2.36 GB/ชุดติดต้ง/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 353.3417ms
+moved types parse time: 185ms
+candidates parse time : 3ms
+C# parse time         : 689ms
+candidates check time : 150ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 10/23/2021 7:58:04 PM : Starting D:/อย่าลบ 2.36 GB/ชุดติดต้ง/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 202.0143ms
+moved types parse time: 166ms
+candidates parse time : 7ms
+C# parse time         : 655ms
+candidates check time : 144ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 10/23/2021 7:59:18 PM : Starting D:/อย่าลบ 2.36 GB/ชุดติดต้ง/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 250.0183ms
+moved types parse time: 191ms
+candidates parse time : 3ms
+C# parse time         : 644ms
+candidates check time : 143ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 10/23/2021 7:59:19 PM : Starting D:/อย่าลบ 2.36 GB/ชุดติดต้ง/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 185.634ms
+moved types parse time: 168ms
+candidates parse time : 4ms
+C# parse time         : 588ms
+candidates check time : 145ms
+console write time    : 1ms
+
